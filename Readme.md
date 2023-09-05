@@ -1,4 +1,4 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - Product preview card component Solution
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/mobile-first-product-card-LyuxX7mwXW]
+- Live Site URL: [https://perfume-product-design.netlify.app]
 
 ## My process
 
@@ -40,11 +40,11 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 ### What I learned
-  Mobile first approach give me the understanding on how to use the media query correctly.
+The mobile-first approach gives me an understanding of how to use the media query correctly.
 
 ### Continued development
  I will continue to apply the Mobile first Approach and also need to enhance my skills on layout responsiveness
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@frontendeveloper9](https://www.frontendmentor.io/profile/frontendeveloper9)
 - Twitter - [@Opeyemi_js](https://www.twitter.com/Opeyemi_js)
