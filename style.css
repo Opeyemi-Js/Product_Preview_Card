@@ -78,6 +78,7 @@ h1{
 .sale-price{
     color: var(--Dark_cyan);
     font-size: 3em;
+    font-family:'Fraunce', serif;
 }
 .list-price{
     text-decoration: line-through;
