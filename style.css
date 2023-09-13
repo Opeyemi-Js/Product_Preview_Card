@@ -75,7 +75,7 @@ h1{
     color: var(--Very_dark_blue);
     padding: 0.2em 0;
 }
-.sale-price p{
+.sale-price{
     color: var(--Dark_cyan);
     font-size: 3em;
     font-family:'Fraunces', serif;
